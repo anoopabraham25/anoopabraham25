@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, my name is Anoop Abraham. I am a Software Engineer at Google AI. I am passionate about machine learning, natural language processing, and artificial intelligence.
+Hi, my name is Anoop Abraham.
 
 ## Skills
 
